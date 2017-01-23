@@ -6,3 +6,4 @@ function sayName() {
 }
 
 sayName();
+sayName();
