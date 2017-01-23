@@ -4,3 +4,5 @@ function sayName() {
   console.log(name);
   console.log('done')
 }
+
+sayName();
